@@ -1,0 +1,1 @@
+vanilla.patches.purchase_order.barcode_field_in_purchase_order
